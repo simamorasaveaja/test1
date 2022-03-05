@@ -1,0 +1,4 @@
+enum TypeNetwork {
+  Query,
+  Mutation
+}

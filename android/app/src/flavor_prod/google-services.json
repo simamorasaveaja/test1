@@ -1,0 +1,47 @@
+{
+	"project_info": {
+		"project_number": "993550758826",
+		"project_id": "ctcd-setoko",
+		"storage_bucket": "ctcd-setoko.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:993550758826:android:45a6babfb60e972faa71d3",
+				"android_client_info": {
+					"package_name": "com.ctcorpdigital.setoko"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "993550758826-ntqhv55qc1u602s4i8hhjgd69ietev4k.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.ctcorpdigital.setoko",
+						"certificate_hash": "3c5acd3f78150284d9c70fa9dcff4361aa47f03a"
+					}
+				},
+				{
+					"client_id": "993550758826-t71dmcn3pvelbe2cfv36r218ksso0dvi.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyDfdJFG1zbLLGP2h44C3ttPCqbS2iWfyKQ"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "993550758826-t71dmcn3pvelbe2cfv36r218ksso0dvi.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}

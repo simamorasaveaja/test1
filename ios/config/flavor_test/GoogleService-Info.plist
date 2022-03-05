@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>96620500270-csctq6nlloo1jn2h3498qpg8j40tp3lm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.96620500270-csctq6nlloo1jn2h3498qpg8j40tp3lm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>96620500270-89n6t6gkcv85rka321abtkmf66ak9efp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDekT9Wvo2sdYupUO_OkiHO5F7z0cgFOAY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>96620500270</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ctcorpdigital.setoko.test</string>
+	<key>PROJECT_ID</key>
+	<string>ctcd-setoko-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ctcd-setoko-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:96620500270:ios:a0f63cf4f24f8d610fd6bf</string>
+</dict>
+</plist>

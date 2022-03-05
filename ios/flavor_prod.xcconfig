@@ -1,0 +1,4 @@
+BUNDLE_ID_SUFFIX=
+PRODUCT_BUNDLE_IDENTIFIER=com.ctcorpdigital.setoko
+FLUTTER_TARGET=lib/main_prod.dart
+APP_NAME=Setoko
